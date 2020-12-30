@@ -8,22 +8,22 @@ export default class Services extends Component {
             {
                 icon: <FaCocktail />,
                 title: "Free cocktails",
-                info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, Magni corporis!"
+                info: "Complimentary Welcome Drink on Arrival is provided. Drinks are served with Soft Drinks options"
             },
             {
                 icon: <FaHiking />,
                 title: "Endless Hiking",
-                info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, Magni corporis!"
+                info: "The resort is hub to many hiking paths with access to nearby alpine lakes"
             },
             {
                 icon: <FaShuttleVan />,
                 title: "Free shuttle",
-                info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, Magni corporis!"
+                info: "For your convenience Free Shuttle Services offered by the resort"
             },
             {
                 icon: <FaBeer />,
                 title: "Strongest Beer",
-                info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, Magni corporis!"
+                info: "We provide the world's best Strongest Beer for Beer Lovers"
             }
         ]
     }
